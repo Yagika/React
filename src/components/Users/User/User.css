@@ -1,0 +1,10 @@
+.user {
+    width: 99%;
+    background: #c0f5f1;
+    margin: 3px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}

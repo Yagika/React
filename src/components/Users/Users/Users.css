@@ -1,4 +1,6 @@
-.App {
+.wr{
     display: flex;
+    width: 49.7%;
     flex-wrap: wrap;
+
 }
