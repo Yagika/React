@@ -1,0 +1,14 @@
+.inner {
+    display: flex;
+    justify-content: space-evenly;
+    background: #cbf3f0;
+    width: 99.5%;
+    margin: 5px;
+    align-content: center;
+}
+.info{
+    width: 50%;
+}
+.inner img {
+    width: 200px;
+}

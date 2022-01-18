@@ -1,13 +1,14 @@
-import React from 'react';
+import Posts from "./components/Posts/Posts/Posts";
 
 import './App.css';
 
-const App = () => {
-    return (
-        <div>
-          
-        </div>
-    );
-};
+
+function App() {
+  return (
+    <div className="App">
+      <Posts/>
+    </div>
+  );
+}
 
 export default App;
