@@ -1,1 +1,11 @@
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+.inner{
+    width: 49%;
+}
 
+.next{
+    width: 100%;
+}
