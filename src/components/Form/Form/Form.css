@@ -1,0 +1,26 @@
+.inner label{
+    font-size: 40px;
+}
+.inner input{
+    width: 300px;
+    height: 25px;
+}
+.value{
+    width: 31%;
+}
+.inner{
+    display: flex;
+    flex-wrap: wrap;
+}
+.inner button{
+    height: 25px;
+    font-size: 20px;
+    width: 100px;
+    background: #b3ffff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.inner button:hover{
+    background: #85cece;
+}
