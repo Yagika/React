@@ -1,0 +1,9 @@
+.inner{
+    width: 70%;
+}
+.mass{
+    width: 29%;
+}
+.users{
+    display: flex;
+}

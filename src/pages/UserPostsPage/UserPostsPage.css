@@ -1,0 +1,4 @@
+.uposts{
+    display:flex;
+    flex-wrap: wrap;
+}
