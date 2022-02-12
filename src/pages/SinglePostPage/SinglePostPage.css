@@ -1,0 +1,15 @@
+.post{
+    text-align: center;
+    background: #c0f5f1;
+    padding: 10px;
+    border-radius: 10px;
+}
+.post button{
+    background: #b3ffff;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.post button:hover{
+    background: #85cece;
+}
